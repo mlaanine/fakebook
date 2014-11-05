@@ -1,4 +1,4 @@
-Marraskuu
+ï»¿Marraskuu
 Miljoonasade
 Laukauksia viulukotelossa
 
@@ -14,22 +14,22 @@ Marraskuu,
     C              Em           D           Em
 nyt on sen kuoreen kirjoitettu: Baby I love you.
    C         D           Em        G           Em
-Mä kapakassa juopottelin sylissäni dinosauriin luu.
+MÃ¤ kapakassa juopottelin sylissÃ¤ni dinosauriin luu.
 
 Marraskuu,
-tänään huoneeni mä sotkin kun sua taas niin ikävöin.
-Nyt kaipuun kaatopaikkaa, täällä kuivakurkkurotta isännöi
+tÃ¤nÃ¤Ã¤n huoneeni mÃ¤ sotkin kun sua taas niin ikÃ¤vÃ¶in.
+Nyt kaipuun kaatopaikkaa, tÃ¤Ã¤llÃ¤ kuivakurkkurotta isÃ¤nnÃ¶i
 
        G   Em         G          Em       C  D
-   Ohi syyskuun, läpi repaleisen lokakuun kaipuun
+   Ohi syyskuun, lÃ¤pi repaleisen lokakuun kaipuun
         G        Em       G  Em
    Kaljakori kilisee, yli taivaan,
    G               Em         C  D  Em
-   päivät niinkuin varisparvi raahautuu
+   pÃ¤ivÃ¤t niinkuin varisparvi raahautuu
 
-   Mua vaivaa ikävistä ikävin, milloin
-   beibi palaat takaisin. Etkö tiedä,
-   voi yksinäisen miehen viedä marraskuu.
+   Mua vaivaa ikÃ¤vistÃ¤ ikÃ¤vin, milloin
+   beibi palaat takaisin. EtkÃ¶ tiedÃ¤,
+   voi yksinÃ¤isen miehen viedÃ¤ marraskuu.
 
 C  D  Em
 
@@ -41,23 +41,23 @@ taas TV syliin paiskoo palavia halkojaan
 C  D  Em
 Marraskuu
     C          Em           D         Em
-käy ihmiskunta sormi suussa kansakouluaan
+kÃ¤y ihmiskunta sormi suussa kansakouluaan
            C             D            Em          G            Em
-vaan eihän täällä liekit uhkaa täällä pikkuhiljaa pohjaan poltetaan
+vaan eihÃ¤n tÃ¤Ã¤llÃ¤ liekit uhkaa tÃ¤Ã¤llÃ¤ pikkuhiljaa pohjaan poltetaan
 
 Marraskuu
-kaiken tämän keskellä sua hiljaa ikävöin
-mä Topin kanssa kellarilla ristinollaa pelaan päivin, öin
+kaiken tÃ¤mÃ¤n keskellÃ¤ sua hiljaa ikÃ¤vÃ¶in
+mÃ¤ Topin kanssa kellarilla ristinollaa pelaan pÃ¤ivin, Ã¶in
 
        G   Em         G          Em       C  D
-   Ohi syyskuun, läpi repaleisen lokakuun kaipuun
+   Ohi syyskuun, lÃ¤pi repaleisen lokakuun kaipuun
         G        Em       G  Em
    Kaljakori kilisee, yli taivaan,
    G               Em         C  D  Em
-   päivät niinkuin varisparvi raahautuu
+   pÃ¤ivÃ¤t niinkuin varisparvi raahautuu
 
-   Mua vaivaa ikävistä ikävin, milloin
-   beibi palaat takaisin. Etkö tiedä,
-   voi yksinäisen miehen viedä marraskuu.
+   Mua vaivaa ikÃ¤vistÃ¤ ikÃ¤vin, milloin
+   beibi palaat takaisin. EtkÃ¶ tiedÃ¤,
+   voi yksinÃ¤isen miehen viedÃ¤ marraskuu.
 
 ...
