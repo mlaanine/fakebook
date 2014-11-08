@@ -1,0 +1,38 @@
+﻿Ympyrä
+Egotrippi
+
+F#  A
+
+E                                 G#         G#7sus4
+Yö vaihtuu aamuun, se tulee liian aikaisin
+E                            G#        G#7sus4
+Taivaalta haihtuu tähti jota katselin
+         Aadd2          F#7sus4
+Mistä sä tuut, mihin sä meet
+    Aadd2                      E    C#m7
+Kun päättyy yö ja kuvasi haalistuu
+   Hsus4        Aadd2
+ja ympyrä sulkeutuu
+
+Mä tiedän paikan josta näkee koko kaupungin
+Sen sulle näyttäisin, jos sinne vielä löytäisin
+Mihin sä meet, mistä sä tuut
+Kun olet siinä, niin pois jää kaikki muu
+Ja ympyrä sulkeutuu
+
+E  C#m7
+
+Hsus4        Aadd2
+Ympyrä sulkeutuu
+
+(E C#m7 Hsus4 Aadd2) kertaa.
+
+F#       244322
+A        x02220
+E        022100
+G#       466544
+G#7sus4  464644
+Aadd2    x02200
+F#7sus4  244300
+C#m7     x46600
+Hsus4    x24400
