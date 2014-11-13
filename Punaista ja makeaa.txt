@@ -7,16 +7,16 @@ E H C#m F#
 A H/F# A Hsus4-H
 
 
-E           H          C#m         F#
+E       H              C#m         F#
 Sä naulasit mun kielen pöytään kii
 A             H       E
 hymyillen sen teit ja veit
 G#m           C#m        G#m     C#m
 pois kaikkein rakkaimman tuhosit maailman
-E             F#       H   C#m      F#   H    /A
+    E         F#       H     C#m    F#   H    /A
 sun hajuvetes tuoksuun mun tequilan sekoitan
 
-  G#m    E      G#m       E 
+  G#m    E        G#m     E 
   Ei ole lupaa ei oikeuttakaan
   C#m     H           E    F#  
   juottaa maljaa näin katkeraa
@@ -24,13 +24,13 @@ sun hajuvetes tuoksuun mun tequilan sekoitan
   hei baarimikko voitko ojentaa jotain punaista ja makeaa
 
 
-E           H          C#m         F#
+E     H          C#m         F#
 Päivällä sä otat aurinkoo
-A        H    E
+A        H           E
 iltaisin vain kaunis oot
-Cm            C#m        Cm      C#m
+G#m          C#m        G#m         C#m
 kaduilla kun taistellaan kuollaan rakastellaan
-E               F#    H     C#m  F#    H    /A
+   E            F#    H   C#m    F#    H    /A
 sä nouset sinne mistä ainoastaan katsellaan
 
 Ei ole lupaa ei oikeuttakaan
@@ -39,7 +39,7 @@ hei baarimikko voitko ojentaa jotain punaista ja makeaa
 
 G#m        C#m    G#m       C#m
 Taas kolme apinaa kuolaa ja tuijottaa
-E                 F#      H       C#m    F#   H    /A
+    E             F#      H       C#m    F#   H    /A
 kun laulat huulin kostein synkkää mustaa oopperaa
 
 Ei ole lupaa ei oikeuttakaan
