@@ -22,12 +22,12 @@ ja asemalle se kieritettiin
 
            C
 Oli juusto ulkomailta tuotettu
-     C7
+          C7
 vaan eipä ollut sitä tullattu
 
          F           C             F
     Kuka toi juuston rautatieasemalle?
-                               C
+            F                  C
     On toki sellainen häpeällistä
           C7
     ei se ollut tullattu
