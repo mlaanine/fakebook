@@ -17,7 +17,7 @@ Tammikuu ei mittää, helmikuu ei mittää,
 maalis-, huhti-, toukokuu ei mittää.
 Am                            Dm
 Kesä-, heinä-, elo-, syys- ja lokakuu ei mittää,
-E
+E                        Am
 marraskuu ja joulukuu ei mittää.
 
 Am
